@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="PcInterface.h" open="1" top="0" tabpos="3">
+		<Cursor position="3052" topLine="13" />
+	</File>
+	<File name="RobotMainboardApp.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="754" topLine="0" />
+	</File>
+	<File name="RobotMainboardApp.h" open="0" top="0" tabpos="4">
+		<Cursor position="1376" topLine="0" />
+	</File>
+	<File name="RobotMainboardMain.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="352364" topLine="7840" />
+	</File>
+	<File name="RobotMainboardMain.h" open="1" top="0" tabpos="1">
+		<Cursor position="1178" topLine="11" />
+	</File>
+	<File name="resource.rc" open="0" top="0" tabpos="4">
+		<Cursor position="55" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
